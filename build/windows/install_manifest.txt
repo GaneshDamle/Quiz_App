@@ -1,0 +1,10 @@
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/icudtl.dat
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/flutter_windows.dll
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/flutter_assets/NOTICES
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/flutter_project/flutter_apps/quiz_app/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
